@@ -1,6 +1,6 @@
 # 🎃 Halloween Form - React Native 🎃
 
-# Descrição:
+## Descrição:
 Este repositório contém um formulário simples desenvolvido em React Native, com um design e temática inspirados no Halloween. 
 Perfeito para coletar informações de suas assombrosas festas de Halloween ou para trazer um pouco do espírito assustador para seus aplicativos!
 
