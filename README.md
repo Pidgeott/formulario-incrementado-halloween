@@ -6,7 +6,7 @@ Perfeito para coletar informações de suas assombrosas festas de Halloween ou p
 
 ---
 
-<div style="text-align: center;">
+<div style="text-items: center;">
     <img src="./assets/tela1.jpg" alt="imagem tela 1" width="45%">
     <img src="./assets/tela2.jpg" alt="imagem tela 2" width="45%">
 </div>
